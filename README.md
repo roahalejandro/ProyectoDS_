@@ -1,6 +1,5 @@
 # Profesionales de Medicina (Argentina & EE. UU.)
 
- ## 📘 Autor
 **Héctor Alejandro Roa**  
 *Proyecto Final – Data Science – Coderhouse (2025)*  
 [GitHub Repository](https://github.com/roahalejandro/ProyectoDS_)
